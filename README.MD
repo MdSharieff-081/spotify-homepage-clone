@@ -26,7 +26,7 @@ This project is a **Spotify Homepage Clone**, built to mimic the look and feel o
 3. Open `index.html` in your browser.
 
 ## Screenshots
-![Spotify Homepage Clone Screenshot](https://github.com/MdSharieff-081/spotify-homepage-clone/blob/main/Screenshot%20(124).png?raw=true)
+![Spotify Homepage Clone Screenshot](https://i.postimg.cc/8c5xmMJk/Screenshot-124.png)
 
 ## Future Enhancements
 - Add a music player.
